@@ -9,5 +9,7 @@ import android.util.Log;
 public class MyLog {
     public void output(String text) {
         Log.d("myLog", text);
+        Log.v("myLog", text);
+        Log.v("myLog", text);
     }
 }
