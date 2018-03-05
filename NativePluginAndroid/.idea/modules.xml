@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NativePluginAndroid.iml" filepath="$PROJECT_DIR$/NativePluginAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylog/mylog.iml" filepath="$PROJECT_DIR$/mylog/mylog.iml" />
     </modules>
   </component>
 </project>
